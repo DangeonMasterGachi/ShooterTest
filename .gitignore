@@ -3,15 +3,45 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+[Li]ibray/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
 
 # Other files and folders
 .settings/
 
 # Executables
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
 *.swf
+*.pdb
+*.svd
+*.unity
+*.controller
+*.prefab
+*.vsconfig
 *.air
+*.obj
+*.mtl
+*.anim
 *.ipa
 *.apk
+*.pidb.meta
+*.unity.meta
+*.mat.meta
+*.mat
+*.cs.meta
+*.meta
+*.unitypackage
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
